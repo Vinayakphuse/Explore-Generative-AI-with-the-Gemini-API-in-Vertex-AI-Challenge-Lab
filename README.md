@@ -22,5 +22,6 @@ If you are the original creator and wish to request removal or credit, please fe
 ```bash
 rm gemini-explorer-challenge-v2.0.0.ipynb
 
-curl -LO raw.githubusercontent.com/Vinayakphuse/Explore-Generative-AI-with-the-Gemini-API-in-Vertex-AI-Challenge-Lab/refs/heads/main/gemini-explorer-challenge-v2.0.0.ipynb
+curl -LO raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Explore%20Generative%20AI%20with%20the%20Gemini%20API%20in%20Vertex%20AI%3A%20Challenge%20Lab/gemini-explorer-challenge-v2.0.0.ipynb
+
 
